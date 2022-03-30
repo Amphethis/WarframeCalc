@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4da4f121-be12-48e8-bf39-73e57a3d4471": {
+      "ProjectGuid": "4da4f121-be12-48e8-bf39-73e57a3d4471",
+      "DisplayName": "Relic Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -10,3 +10,12 @@ C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjec
 C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.exe
 C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.xml
 C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.pdb
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.vbproj.AssemblyReference.cache
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic_Calculator.RelicCalculatorForm.resources
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic_Calculator.Resources.resources
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.vbproj.GenerateResource.cache
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.exe
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.xml
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.pdb
