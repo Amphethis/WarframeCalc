@@ -1,0 +1,12 @@
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\bin\Debug\Relic Calculator.exe.config
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\bin\Debug\Relic Calculator.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\bin\Debug\Relic Calculator.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\bin\Debug\Relic Calculator.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.vbprojAssemblyReference.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic_Calculator.RelicCalculatorForm.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic_Calculator.Resources.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.vbproj.GenerateResource.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Relic Calculator\Relic Calculator\obj\Debug\Relic Calculator.pdb
