@@ -19,3 +19,7 @@ C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Ca
 C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.exe
 C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.xml
 C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\obj\Debug\Relic Calculator.pdb
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\bin\Debug\Relic Calculator.exe.config
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\bin\Debug\Relic Calculator.exe
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\bin\Debug\Relic Calculator.pdb
+C:\Users\FinHe\Documents\GitHub\WarframeCalc\Relic Calculator\bin\Debug\Relic Calculator.xml
